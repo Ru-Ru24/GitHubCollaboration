@@ -16,8 +16,10 @@ struct ContentView: View {
             Text("Hello, world!")
 //<<<<<<< bella-dev
             Text("Yay hello guys")
-=======
+//=======
             Text("Change 1")
+            
+            Text("Change 3")
 //>>>>>>> main
         }
         .padding()
