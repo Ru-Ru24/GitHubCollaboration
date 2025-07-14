@@ -19,7 +19,6 @@ struct ContentView: View {
 //=======
             Text("Change 1")
             Text("New Change - Sarah")
-//>>>>>>> main
         }
         .padding()
     }
